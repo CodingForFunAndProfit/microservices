@@ -1,3 +1,12 @@
 [submodule "auth"]
 	path = auth
 	url = https://github.com/CodingForFunAndProfit/auth.git
+[submodule "apigateway"]
+	path = apigateway
+	url = https://github.com/CodingForFunAndProfit/apigateway.git
+[submodule "orders"]
+	path = orders
+	url = https://github.com/CodingForFunAndProfit/orders.git
+[submodule "products"]
+	path = products
+	url = https://github.com/CodingForFunAndProfit/products.git
